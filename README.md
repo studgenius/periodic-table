@@ -1,1 +1,1 @@
-# preiodic-table
+# periodic-table
