@@ -2,9 +2,12 @@
 *::before,
 *::after {
     box-sizing: border-box;
+    background-color: blueviolet;
 }
 
-nav, ul, li, a{
+nav, ul, li, a {
     text-decoration: none;
     list-style-type: none;
+    margin: o;
+    padding: o;
 }
