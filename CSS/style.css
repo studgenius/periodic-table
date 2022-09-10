@@ -4,9 +4,13 @@
     box-sizing: border-box;
 }
 
-nav, ul, li, a {
+nav,ul, li, a {
     text-decoration: none;
     list-style-type: none;
     margin: o;
     padding: o;
+}
+
+.h6 {
+    vertical-align: text-top;
 }
